@@ -44,7 +44,7 @@ CREATE TABLE titles(
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL,
 	FOREIGN KEY (emp_no) REFERENCES employees(emp_no),
-	PRIMARY KEY (emp_no)
+	PRIMARY KEY (emp_no,title,from_date)
 );
 
 CREATE TABLE dept_emp(
@@ -57,4 +57,9 @@ CREATE TABLE dept_emp(
 	PRIMARY KEY (emp_no, dept_no)
 
 );
-SELECT * FROM departments;
+SELECT * from departments;
+SELECT * FROM employees;
+SELECT * FROM salaries;
+SELECT * from dept_manager;
+SELECT * from dept_emp;
+select * from titles;
