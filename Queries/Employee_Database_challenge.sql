@@ -38,5 +38,5 @@ ON e.emp_no = dept_emp.emp_no
 LEFT JOIN titles
 ON e.emp_no = titles.emp_no
 WHERE (dept_emp.to_date = '9999-01-01')
-AND birth_date BETWEEN '1965-01-01' AND '1965-12-31'
+AND (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no;
