@@ -7,8 +7,8 @@ The overall goal is to future-proof the Pewlett Hackard by determining how many 
 ## Results
 
 In completing the analysis I have noticed four major points:
-- 
--
+- A large portion of retirees (72.9%) will be coming from employees who are designated as Senior Engineers or Senior Staff. This could be an issue with the continuity of projects as the possible creators and/or leaders of these efforts are retiring. Knowledge transfer sessions are fundamental. 
+-  There is a low number of employees (1549) eligible for the mentorship program. 
 - 
 - 
 
@@ -20,4 +20,6 @@ There are 72,458 roles that will need to be filled.
 
 ### Are There Enough Qualified Mentors?
 
-There are not enough qualified, retirement ready employees in the departments to mentor the next generation of employees. There are only 1,549 mentorship eligible employees. They would only cover about 2% of the new hires. 
+There are not enough qualified, retirement ready employees in the departments to mentor the next generation of employees. There are only 1,549 mentorship eligible employees. They would only cover about 2% of the new hires.
+
+### Suggestions  
