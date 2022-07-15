@@ -27,7 +27,11 @@ There are not enough qualified, retirement ready employees in the departments to
 
 ### More Insights
 
-To provide even more insight I have created two more tables. The first table shows the number of eligible mentorship employees per title. The second table shows the number of retiring employees per department.
+To provide even more insight I have created two more tables:
+
+This first table shows the number of eligible mentorship employees per title. 
 
 ![](/Images/mentorship_eligibility_title.png)
+
+This second table shows the number of retiring employees per department.
 ![](/Images/unique_titles_by_dept.png)
