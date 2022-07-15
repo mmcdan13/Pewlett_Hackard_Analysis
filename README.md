@@ -6,13 +6,14 @@ The overall goal is to future-proof the Pewlett Hackard by determining how many 
 
 ## Results
 
-![]/Images/retiring_titles.png
+![](/Images/retiring_titles.png)
 
 In completing the analysis I have noticed four major points:
+- A total of 72,458 employees will be retiring soon.
 - A large portion of retirees (72.9%) will be coming from employees who are designated as Senior Engineers or Senior Staff. This could be an issue with the continuity of projects as the possible creators and/or leaders of these efforts are retiring. Knowledge transfer sessions are fundamental. 
+- Managers make up smallest percentage of retirees which could be helpful. Managers may be a useful group in facilitating the transition to new hires.
 -  There is a low number of employees (1549) eligible for the mentorship program to train and mentor the next generation of employees. 
-- 
-- 
+
 
 ## Summary 
 
@@ -28,5 +29,5 @@ There are not enough qualified, retirement ready employees in the departments to
 
 To provide even more insight I have created two more tables. The first table shows the number of eligible mentorship employees per title. The second table shows the number of retiring employees per department.
 
-![]/Images/mentorship_eligibility_title.png
-![]/Images/unique_titles_by_dept.png
+![](/Images/mentorship_eligibility_title.png)
+![](/Images/unique_titles_by_dept.png)
